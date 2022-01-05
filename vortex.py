@@ -5,7 +5,7 @@ turtle.speed(0)
 
 n:int = 100
 color:int = 1
-turtle.bgcolor("white")
+turtle.bgcolor("black")
 
 turtle.setpos(-150,0)
 lists:str = ['blue',"red"]
